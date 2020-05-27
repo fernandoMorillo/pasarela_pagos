@@ -178,7 +178,7 @@
                 <div class="col-md-12 text-center">
                     <h1 style="font-weight: bold; color: #008458">Conoce todas nuestras opciones de pago</h1>
                 </div>
-                <div class="col-md-12 text-center  uk-child-width-auto uk-align-center	uk-width-medium	uk-width-1-1">
+                <div class="col-md-12 text-center  uk-child-width-auto uk-align-center	uk-width-medium	uk-width-1-1 uk-height-small">
                     <div class="uk-position-relative uk-flex uk-animation-toggle" tabindex="-1" uk-slider="autoplay: trueautoplay-interval: 600pause-on-hover: true">
 
                         <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m ">
