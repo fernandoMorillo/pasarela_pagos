@@ -242,7 +242,7 @@
                                     <div class="uk-card-header">
                                         <div class="uk-grid-small uk-flex-middle" uk-grid>
                                             <div class="uk-width-auto">
-                                                <img class="uk-border-circle" width="140" height="40" src="static/bancos/ICONO.png">
+                                                <img class="uk-border-circle" width="140" height="40" src="static/bancos/NICHO.png">
                                             </div>
                                         </div>
                                     </div>
