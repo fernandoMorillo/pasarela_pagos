@@ -204,7 +204,9 @@
         </div>
     </div>
 </div>
-
+<div>
+        <h1>Ver opciones de pago</h1>
+</div>
 <div class="container pt-5">
     <div class="row">
         <div class="col-md-12 text-center mt-3 mb-3">
