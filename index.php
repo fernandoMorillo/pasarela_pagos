@@ -157,8 +157,11 @@
                         </form>
                         <div class="row">
                             <div class="col-md-12 d-flex justify-content-center">
+                            
+                    <img class="image"
+                                 src="static/payco.png"
+                                 alt="">
 
-                                <img class="image" src="http://0523aae09f0cadbd79f4-60bf0867add971908d4f26a64519c2aa.r62.cf5.rackcdn.com/btns/powered_01.png" alt="">
 
                             </div>
                         </div>
@@ -184,6 +187,7 @@
                         <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m ">
                             <li class="uk-card  uk-card-body">
                                 <img style="position: relative; top:18px;" src="static/bancos_small/bbva.svg" style="width: 200px" alt="banco bbva" class="banco">
+
 
                             </li>
                             <li class="uk-card  uk-card-body">
