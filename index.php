@@ -172,7 +172,7 @@
                         <div class="col-md-12 d-flex justify-content-center">
 
                             <img class="image"
-                                 src="http://0523aae09f0cadbd79f4-60bf0867add971908d4f26a64519c2aa.r62.cf5.rackcdn.com/btns/powered_01.png"
+                                 src="static/payco.png"
                                  alt="">
 
                         </div>
@@ -222,7 +222,7 @@
         </div>
         <div class="col-md-4 d-flex justify-content-center mt-3 mb-3">
             <div class="content d-flex align-content-center">
-                <img src="static/bancos_small/cajasocial.svg" style="width: 200px" alt="banco caja social"
+                <img src="static/bancos_small/cajasocial.png" alt="banco caja social"
                      class="banco">
             </div>
 
